@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: Loot Sounds Configuration
+## Notes: Allows configuration of Loot Sounds
+## Author: movzx
+## Version: 0.1
+## Dependencies: LootSounds
+
+addon.xml

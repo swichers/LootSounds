@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: Loot Sounds
+## Notes: Play sounds on looting items.
+## Author: movzx
+## Version: 0.1
+## SavedVariables: LootSounds_Config
+
+addon.xml

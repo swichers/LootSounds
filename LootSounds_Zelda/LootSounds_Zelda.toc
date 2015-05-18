@@ -1,0 +1,8 @@
+## Interface: 60000
+## Title: Loot Sounds: |cff6bff3dZelda|r
+## Notes: Zelda loot sounds for the Loot Sounds addon
+## Author: movzx
+## Version: 0.1
+## Dependencies: LootSounds
+
+addon.xml
