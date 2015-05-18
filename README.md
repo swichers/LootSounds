@@ -11,6 +11,11 @@ This was inspired by the wonderful ZeldaLoot addon that has been abandoned. My
 goal was to create pluggable soundpacks with the hope that people would create
 their own.
 
+## Creating new packs
+
+See the included LootSounds_Zelda addon for an example of how to create sound 
+packs.
+
 ## TODO:
 
  * Should sound packs provide profile defaults
